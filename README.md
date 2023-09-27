@@ -4,7 +4,7 @@ This repo contains Configuration Manager and Intune Tools, Resources, and script
 
 # ConfigMgr-Intune
 
-The OSD-Appx-Removals Folder contains my own "hit list" of annoyance / non work-related apps (xbox apps, Bing etc) and apps that are not stored in conventional methods for UE-V (Windows Sticky Notes, etc) and are therefore a DLP risk. 
+The OSD-Appx-Removals Folder contains my own "hit list" of annoyance / non work-related apps (xbox apps, Bing etc) and apps that are not stored in conventional methods for UE-V (Windows Sticky Notes, etc) and are therefore a DLP risk. Here I also give you a rundown of default Windows-Appx defaults to consider keeping.
 
 
 # Disclaimers
